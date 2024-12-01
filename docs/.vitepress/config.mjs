@@ -6,11 +6,11 @@ export default defineConfig({
     lang: 'zh-CN',
     title: "WlAdmin",
     description: "WlAdmin在线文档",
-    head: [['link', {rel: 'icon', href: '/wl-admin-doc/image/logo.ico'}]],
+    head: [['link', {rel: 'icon', href: '/wl-admin-doc/logo.ico'}]],
     cleanUrls: true,
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
-        logo: '/image/logo.svg',
+        logo: '/logo.svg',
         siteTitle: 'Wl-Admin',
         search: {
             provider: 'local'

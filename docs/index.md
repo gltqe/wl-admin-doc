@@ -7,7 +7,7 @@ hero:
   text: "基于SpringBoot3、Vue3的后台管理框架"
   tagline: "轻量、完善、简约、优雅"
   image:
-    src: /image/logo.png
+    src: /logo.png
     alt: Logo
   actions:
     - theme: brand
