@@ -163,4 +163,4 @@ public class PageController {
 
 ```
 * 参考后端部署，将后端代码打`jar`包部署到服务器
-* 访问地址变为：`http://localhost:9000/wl/page`
+* 访问地址变为：`http://localhost:9000/wl/page/login`
